@@ -43,21 +43,25 @@ hr {
 }
 
 
-.product img {
+.product {
     margin-top: 0px;
     margin-right: 0px;
     margin-bottom: 2px;
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 20px;
-    height: 400px; width: 635px; 
+    display: flex;
     flex-direction: row;
     justify-content: space-around;
+    flex-wrap: wrap
     }
     
-.information {
+.product img {
+    height: 420px; width: 635px;    
+}    
+footer {
     padding-left: 0px;
     padding-right: auto;
+    display: flex;
     justify-content: center;
-    align-items: center;
 }
