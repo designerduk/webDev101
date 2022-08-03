@@ -1,0 +1,28 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../Week_1"
+		},
+		{
+			"path": "../../Week_2"
+		},
+		{
+			"path": "../../Week_3"
+		},
+		{
+			"path": "../../Week_4"
+		},
+		{
+			"path": "../../Week_6"
+		},
+		{
+			"path": "../../Week_7"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cheungdukki"
+	}
+}

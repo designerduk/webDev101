@@ -4,10 +4,8 @@ import './Header.css'
 export default function Header () {
     return (
         <header>
-          <h1 style={{ fontSize: '50px' }}>CHEUNGDUKKI</h1>
-          <div>
-            <div className='menu'>  Index</div>
-          </div>
+          <h1> CHEUNGDUKKI </h1>
+
         </header>
 )
 }
