@@ -49,7 +49,7 @@ hr {
   margin-bottom: 2px;
   padding-left: 0px;
   padding-right: 0px;
-  padding-bottom: 20px;
+  padding-bottom: 0px;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -57,7 +57,7 @@ hr {
   }
   
 .product img {
-  height: 420px; width: 635px;    
+  height: 420px; width: 600x;    
 }    
 footer {
   padding-left: 0px;

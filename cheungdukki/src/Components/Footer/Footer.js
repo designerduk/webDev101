@@ -1,11 +1,10 @@
 import React from 'react'
 import './Footer.css'
 
-export default function Information() {
+export default function Footer() {
     return (
 
-<footer>
-          <div className="information"> <p style={{fontSize: '50px'}}> Contact me ! </p></div>
-</footer>
+        <div className="Footer">
+        </div>
     )
 }

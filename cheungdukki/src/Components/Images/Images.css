@@ -1,0 +1,12 @@
+.product.img {
+    display: flex;
+    justify-content: center;
+    /* flex-direction: row; */
+    flex-wrap: wrap;
+  }
+
+.product img {
+    height: 400px; 
+    width: 630px; 
+    padding: 0px;
+  }
